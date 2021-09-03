@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "AprendendoValidation",
+    "slug": "AprendendoValidation",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "AprendendoValidation"
+}
